@@ -24,14 +24,14 @@ you have now created a court report
 
 now press the 'add new award to this court report' button
 type in the sca first name of the recipient and  press search
-  IF the person is nto found, try similar names jsut in case
+  IF the person is nto found, try similar names just in case
   IF the right person is not found you must Add Person (see below)
-IF you find the person, click the circle to the left of therir name
+IF you find the person, click the circle to the left of their name
 press Select
-Select the right award from the dropdown (this is a pain)
+Select the right award from the drop-down (this is a pain)
 press 'Select Award' button
 on the next page, enter the sequence number (1, 2, 3 etc down the page)
-set hte scroll status as appropriate
+set the scroll status as appropriate
 copy the Scribe's name into field
 press Save Award
 Assuming there are more awards, press 'add award for court report' and repeat this last paragraph
@@ -42,12 +42,12 @@ Enter SCA name
 If you have any other information FOR SURE fill it in, but DO NOT GUESS
 press Save
 on the left, go to 'OP Events'
-Using hte Prev and NExt links find the correct month and the correct event
-click o nthe event
+Using the Prev and NExt links find the correct month and the correct event
+click on the event
 find the right court report
 press Edit
 press 'Add new Award to this Court Report' button
-search for hte person you jsut added
+search for the person you just added
 continue as above
 
 
